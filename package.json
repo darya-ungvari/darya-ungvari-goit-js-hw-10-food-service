@@ -1,0 +1,25 @@
+{
+  "name": "goit-js-hw-10-food-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darya-ungvari/goit-js-hw-10-food-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darya-ungvari/goit-js-hw-10-food-service/issues"
+  },
+  "homepage": "https://github.com/darya-ungvari/goit-js-hw-10-food-service#readme",
+  "devDependencies": {
+    "handlebars-loader": "^1.7.1",
+    "webpack": "^5.1.3",
+    "webpack-cli": "^4.1.0"
+  },
+  "dependencies": {}
+}
